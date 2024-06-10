@@ -16,7 +16,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Viet Nam.
+I am a Senior Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Viet Nam.
 - 👀 I’m interested in building web application people love to use
 - 🌱 I’m currently learning THREE.JS
 - 💞️ I’m looking to collaborate on Jamstack project
